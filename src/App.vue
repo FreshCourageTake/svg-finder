@@ -1,6 +1,6 @@
 <template>
 	<div id="app">
-		<p>Search for an SVG using the filter below. Click an SVG name to copy it to your clipboard.</p>
+		<p>Search for an SVG using the filter below. Click an SVG name to copy it to your clipboard. </p>
 		<input type="text" v-model="searchTerm" placeholder="Filter..." style="margin-bottom: 20px"/>
 
 		<div class="container">
