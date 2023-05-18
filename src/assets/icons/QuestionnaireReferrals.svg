@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>getotknow / referrals</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="getotknow-/-referrals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" fill="#004059" cx="15" cy="15" r="15"></circle>
+        <g id="chat-33" transform="translate(8.000000, 8.000000)" stroke="#FFFFFF" stroke-linecap="square">
+            <path d="M5.6,11.8222761 C6.49042544,12.5066344 7.66741907,12.9231183 8.959856,12.9231183 C9.53659247,12.9231183 10.0883682,12.8361601 10.604383,12.6837814 L12.5599589,14 L12.5599589,11.6273605 C13.4499043,10.8506596 14,9.78831583 14,8.61559171 C14,8.04376755 13.8691963,7.49859621 13.6323095,7" id="Shape"></path>
+            <path d="M6.53333333,0 C2.92499753,0 0,2.3505 0,5.25 C0,6.49925 0.54517037,7.645 1.45185185,8.5465 L1.45185185,12 L4.74900741,10.29675 C5.31692346,10.42625 5.91387654,10.5 6.53333333,10.5 C10.1416691,10.5 13.0666667,8.1495 13.0666667,5.25 C13.0666667,2.3505 10.1416691,0 6.53333333,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

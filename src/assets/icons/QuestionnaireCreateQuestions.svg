@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>getotknow / create questions</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="getotknow-/-create-questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" fill="#4089BC" cx="15" cy="15" r="15"></circle>
+        <g id="alert-que" transform="translate(10.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M3.10121391,11.9995862 C3.10121391,11.2634737 3.05241142,10.2269577 3.56586286,9.28105927 C3.87549213,8.71087204 4.41765092,8.12082342 5.19192913,7.51174097 C6.73023294,6.28612806 7.37532808,5.65139133 7.37532808,4.347988 C7.37532808,2.89603807 6.30085302,2.3088859 4.85482283,2.3088859 C3.90830052,2.3088859 2.85063976,2.45370849 0.975639764,3.38677977 L0,1.32409227 C1.57193241,0.441502017 3.2562336,0 5.05208333,0 C6.56947178,0 7.77395013,0.374883625 8.66428806,1.12506465 C9.55462598,1.87524568 10,2.91010655 10,4.23047481 C10,4.81638564 9.91469816,5.33774697 9.74450459,5.79497259 C9.28149606,7.03837799 8.29109252,7.85186718 7.18955052,8.71873384 C5.43102034,10.1115134 5.37770669,10.5906693 5.37770669,12 L3.10121391,12 L3.10121391,11.9995862 Z" id="Shape"></path>
+            <circle id="Oval" cx="4.5" cy="16.5" r="1.5"></circle>
+        </g>
+    </g>
+</svg>

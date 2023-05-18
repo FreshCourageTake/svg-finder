@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>lifestyle / sea-mask</title>
+    <desc>Created with Sketch.</desc>
+    <g id="lifestyle-/-sea-mask" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sea-mask" transform="translate(2.000000, 0.000000)">
+            <path d="M27,38.6363636 L27,39.7727273 C27,45.421094 31.4771525,50 37,50 L37,50 C42.5228475,50 47,45.421094 47,39.7727273 L47,0" id="Path" stroke="#999999" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M22,38 L31,38" id="Path" stroke="#999999" stroke-width="3" stroke-linecap="square"></path>
+            <rect id="Rectangle" stroke="#999999" stroke-width="3" stroke-linecap="square" x="0" y="7" width="41" height="23" rx="2"></rect>
+            <polygon id="Path" fill="#999999" points="18.25 21 22.75 21 25 30 16 30"></polygon>
+        </g>
+    </g>
+</svg>

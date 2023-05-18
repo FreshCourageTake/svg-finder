@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>lifestyle / helmet</title>
+    <desc>Created with Sketch.</desc>
+    <g id="lifestyle-/-helmet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="helmet" stroke="#999999" stroke-width="3">
+            <path d="M0,39 L23.0069722,39 C24.8828803,39 26.5481227,37.714559 27.1414178,35.8090414 L30.7730057,24.1423747 C31.713686,21.1206055 29.6132808,18 26.638693,18 L0.901180625,18" id="Path"></path>
+            <path d="M24.0410749,0.00420125792 C10.5535837,0.250962254 -4.9e-06,11.0102355 0,24.4999886 L0,37.8636312 C2.11590909e-06,44.0140764 4.98591749,49 11.1363594,49 L31.1818182,49 C41.0225277,49 49,41.022524 49,31.1818099 L49,24.4999886 C49,10.8163471 37.782084,-0.247198148 24.0410749,0.00420125792 Z" id="Path" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

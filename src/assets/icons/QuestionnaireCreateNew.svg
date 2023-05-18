@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>getotknow / Create NEW</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="getotknow-/-Create-NEW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" fill="#4089BC" cx="15" cy="15" r="15"></circle>
+        <g id="add" transform="translate(7.000000, 7.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M14.1538462,6.15384615 L9.84615385,6.15384615 L9.84615385,1.84615385 C9.84615385,0.826551231 9.01960262,0 8,0 C6.98039738,0 6.15384615,0.826551231 6.15384615,1.84615385 L6.15384615,6.15384615 L1.84615385,6.15384615 C0.826551231,6.15384615 0,6.98039738 0,8 C-2.73285668e-16,9.01960262 0.826551231,9.84615385 1.84615385,9.84615385 L6.15384615,9.84615385 L6.15384615,14.1538462 C6.15384615,15.1734488 6.98039738,16 8,16 C9.01960262,16 9.84615385,15.1734488 9.84615385,14.1538462 L9.84615385,9.84615385 L14.1538462,9.84615385 C15.1734488,9.84615385 16,9.01960262 16,8 C16,6.98039738 15.1734488,6.15384615 14.1538462,6.15384615 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

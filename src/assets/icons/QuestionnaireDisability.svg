@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>getotknow / disability</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="getotknow-/-disability" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" fill="#007BC3" cx="15" cy="15" r="15"></circle>
+        <g id="disabled" transform="translate(7.000000, 6.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+            <polyline id="Shape" points="15.4285714 16.5714286 13.1428571 12 7.42857143 12 7.42857143 5.14285714"></polyline>
+            <path d="M7.42857143,7.42857143 L12,7.42857143" id="Shape"></path>
+            <circle id="Oval" cx="7.42857143" cy="2.85714286" r="2.28571429"></circle>
+            <path d="M9.38171429,14.8571429 C8.51967541,16.9881598 6.20924807,18.1475856 3.98550384,17.5650859 C1.76175961,16.9825862 0.316446641,14.8393613 0.60984567,12.5593917 C0.903244699,10.2794221 2.84408703,8.57194625 5.14285714,8.57142857" id="Shape"></path>
+        </g>
+    </g>
+</svg>

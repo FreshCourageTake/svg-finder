@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>getotknow / full questionnaire</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="getotknow-/-full-questionnaire" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" class="pf-svg-primary-path" cx="15" cy="15" r="15"></circle>
+        <g id="folder-question" transform="translate(8.000000, 8.000000)">
+            <path d="M13.6363636,14.3181818 L1.36363636,14.3181818 C0.610568182,14.3181818 0,13.7076136 0,12.9545455 L0,0 L5.45454545,0 L7.5,2.72727273 L15,2.72727273 L15,12.9545455 C15,13.7076136 14.3894318,14.3181818 13.6363636,14.3181818 Z" id="Shape" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <path d="M6,6.02272727 C6.26318182,5.42068182 6.86386364,5 7.56272727,5 C8.50397727,5 9.26727273,5.76329545 9.26727273,6.70454545 C9.26727273,7.64579545 8.50397727,8.40909091 7.56272727,8.40909091 L7.56272727,9.43181818" id="Shape" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <circle id="Oval" stroke="#FFFFFF" stroke-linecap="square" cx="7.34090909" cy="11.3409091" r=".5"></circle>
+            <circle id="Oval" fill-rule="nonzero" cx="7.34090909" cy="11.3409091" r="1"></circle>
+        </g>
+    </g>
+</svg>

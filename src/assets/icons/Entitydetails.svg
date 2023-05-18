@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icon / entitydetails  / inactive</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-/-entitydetails--/-inactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chart" transform="translate(3.000000, 3.000000)" fill="#999999" fill-rule="nonzero">
+            <path d="M31.4127239,23 C31.0538057,27.6907 27.1406194,31.4 22.3706381,31.4 C19.9999623,31.4 17.8464529,30.4774 16.2278295,28.9801 L7,37.5621 C10.9250571,41.5346 16.3653915,44 22.3706381,44 C34.0724895,44 43.6292109,34.6417 44,23 L31.4127239,23 Z" id="Path"></path>
+            <path d="M23,12.6287239 C27.4628678,12.9706088 31.029659,16.5372811 31.3715553,21 L44,21 C43.6356843,9.5818849 34.4191966,0.36500417 23,0 L23,12.6287239 Z" id="Path"></path>
+            <path d="M14.5859,27.4044826 C13.3462,25.8454882 12.6,23.8760476 12.6,21.7326057 C12.6,16.9398558 16.3093,13.0079906 21,12.6473592 L21,0 C9.3576,0.372558955 0,9.97489768 0,21.7326057 C0,27.1883843 2.0195,32.1775872 5.3417,36 L14.5859,27.4044826 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

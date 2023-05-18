@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 18</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-18" fill="#F7F7F7" fill-rule="nonzero">
+            <polygon id="Path" points="26 2 26 10 22 10 22 2"></polygon>
+            <polygon id="Path" points="46 22 46 26 38 26 38 22"></polygon>
+            <polygon id="Path" points="26 38 26 46 22 46 22 38"></polygon>
+            <polygon id="Path" points="10 22 10 26 2 26 2 22"></polygon>
+            <path d="M24,0 C10.745166,0 0,10.745166 0,24 C0,37.254834 10.745166,48 24,48 C37.254834,48 48,37.254834 48,24 C48,10.745166 37.254834,0 24,0 Z M24,4 C35.045695,4 44,12.954305 44,24 C44,35.045695 35.045695,44 24,44 C12.954305,44 4,35.045695 4,24 C4,12.954305 12.954305,4 24,4 Z" id="Oval"></path>
+            <polygon id="Path" points="13.226499 11.4452998 16.5547002 9.22649902 25.07 22 34 22 34 26 22.9296325 26"></polygon>
+        </g>
+    </g>
+</svg>

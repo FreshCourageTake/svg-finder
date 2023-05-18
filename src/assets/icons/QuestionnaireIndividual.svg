@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>getotknow / individual</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="getotknow-/-individual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" fill="#00A87E" cx="15" cy="15" r="15"></circle>
+        <g id="single-02" transform="translate(7.000000, 6.000000)" stroke="#FFFFFF" stroke-linecap="square">
+            <path d="M9.375,10.8333333 L5.625,10.8333333 C2.5184375,10.8333333 0,13.2754545 0,16.2878788 C0,16.2878788 2.8125,17.5 7.5,17.5 C12.1875,17.5 15,16.2878788 15,16.2878788 C15,13.2754545 12.4815625,10.8333333 9.375,10.8333333 Z" id="Shape"></path>
+            <path d="M3.33333333,4.27777778 C3.33333333,1.91522222 5.19880952,0 7.5,0 C9.80119048,0 11.6666667,1.91522222 11.6666667,4.27777778 C11.6666667,6.64033333 9.80119048,9.16666667 7.5,9.16666667 C5.19880952,9.16666667 3.33333333,6.64033333 3.33333333,4.27777778 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

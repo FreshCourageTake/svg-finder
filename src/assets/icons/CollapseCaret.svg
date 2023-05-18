@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="13" viewBox="0 0 22 13">
+  <defs>
+    <filter id="collapse_caret-a">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.333333 0 0 0 0 0.333333 0 0 0 0 0.333333 0 0 0 1.000000 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" filter="url(#collapse_caret-a)" transform="translate(-1385 -289)">
+    <polyline stroke="#111" stroke-width="2" points="11 0 0 10 11 20" transform="rotate(-90 843.5 -542.5)"/>
+  </g>
+</svg>

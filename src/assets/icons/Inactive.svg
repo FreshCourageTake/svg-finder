@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon / appliedfor / inactive</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-/-appliedfor-/-inactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="time" transform="translate(1.000000, 0.000000)">
+            <polyline id="Path" stroke="#979797" stroke-width="2" points="24.5 11.5384615 24.5 24.3589744 37.3947368 24.3589744"></polyline>
+            <path d="M0.859649123,24.3589744 C0.859808412,13.2095795 8.738333,3.59439784 19.7207232,1.34036848 C30.7031133,-0.913660874 41.7671231,4.81374879 46.2078027,15.0517045 C50.6484823,25.2896601 47.2438003,37.2207769 38.0570431,43.6146256 C28.870286,50.0084744 16.4295592,49.1055307 8.27412281,41.4529915" id="Path" stroke="#979797" stroke-width="2"></path>
+            <polygon id="Path" fill="#999999" points="5.15789474 50 0 35.4700855 15.4736842 36.3247863"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icon / taxcert / inactive</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-/-taxcert-/-inactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check-circle-08" fill="#999999" fill-rule="nonzero">
+            <path d="M25,0 C11.1928813,0 0,11.1928813 0,25 C0,38.8071187 11.1928813,50 25,50 C38.8071187,50 50,38.8071187 50,25 C49.9599527,11.2095035 38.7904965,0.0400473287 25,0 Z M20.8333333,36.2791667 L9.55416667,25 L12.5,22.0541667 L20.8333333,30.3875 L37.5,13.7208333 L40.4458333,16.6666667 L20.8333333,36.2791667 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

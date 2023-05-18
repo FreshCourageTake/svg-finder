@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>lifestyle /skydiving</title>
+    <desc>Created with Sketch.</desc>
+    <g id="lifestyle-/skydiving" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(8.000000, 6.000000)">
+            <path d="M17,13.4922501 C21.6884787,13.6240189 24.8929335,13.9241349 26.6133645,14.3925982 C31.8577146,15.820604 34,21.194964 34,17 C34,7.61115925 26.3888407,1.0658141e-14 17,1.0658141e-14 C7.61115925,1.0658141e-14 0,7.61115925 0,17 C0,20.4885836 5.33319153,13.8834718 8.94291216,14.3925982 C10.585586,14.624286 13.271282,14.32417 17,13.4922501 Z" id="Oval" fill="#999999"></path>
+            <ellipse id="Oval" fill="#999999" cx="4.5" cy="15.5" rx="3.5" ry="2.5"></ellipse>
+            <ellipse id="Oval-Copy-4" fill="#999999" cx="29.5" cy="15.5" rx="3.5" ry="2.5"></ellipse>
+            <ellipse id="Oval-Copy-2" fill="#999999" cx="10.75" cy="13.5" rx="3.5" ry="2.5"></ellipse>
+            <ellipse id="Oval-Copy-3" fill="#999999" cx="23.25" cy="13.5" rx="3.5" ry="2.5"></ellipse>
+            <ellipse id="Oval-Copy" fill="#999999" cx="17" cy="13.5" rx="3.5" ry="2.5"></ellipse>
+            <polygon id="Line-2" fill="#999999" fill-rule="nonzero" points="0.296646687 16.9272393 13.9272393 33.7033533 14.7033533 33.0727607 1.07276069 16.2966467"></polygon>
+            <polygon id="Line-2-Copy" fill="#999999" fill-rule="nonzero" transform="translate(26.203353, 25.000000) scale(-1, 1) translate(-26.203353, -25.000000) " points="19 16.9272393 32.6305926 33.7033533 33.4067066 33.0727607 19.776114 16.2966467"></polygon>
+            <rect id="Rectangle" fill="#999999" x="14" y="32" width="6" height="5"></rect>
+            <polygon id="Line-4" fill="#979797" fill-rule="nonzero" points="9.61636454 14.1861432 16.6861432 35.1336355 17.6336355 34.8138568 10.5638568 13.8663645"></polygon>
+            <polygon id="Line-4-Copy" fill="#979797" fill-rule="nonzero" transform="translate(20.500000, 24.500000) scale(-1, 1) translate(-20.500000, -24.500000) " points="16.4913645 14.1861432 23.5611432 35.1336355 24.5086355 34.8138568 17.4388568 13.8663645"></polygon>
+        </g>
+    </g>
+</svg>
