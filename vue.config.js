@@ -1,4 +1,5 @@
 module.exports = {
+	publicPath: process.env.NODE_ENV === "production" ? "/svg-finder/" : "/",
 	chainWebpack: (config) => {
 		const svgRule = config.module.rule('svg');
 	 
